@@ -1,6 +1,8 @@
 /* This is a demo program. 
 FileName : "Demo.java". */
 public class Demo {
+  //Your program begins by calling the main(). 
+  //Prints "Demo" to the terminal window. 
   public static void main(String args[]) {
     System.out.println("Demo");
   }
